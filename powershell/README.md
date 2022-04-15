@@ -74,14 +74,14 @@
 
 ### Install additional applications.
 
-    ```powershell
-    # utilities
-    scoop install fzf grep touch less tldr bat s tokei gcc make which speedtest
+```powershell
+# utilities
+scoop install fzf grep touch less tldr bat s tokei gcc make which speedtest
 
-    # git integration
-    scoop install git gh github
+# git integration
+scoop install git gh github
 
-    # development
-    scoop install neovim php php-xdebug composer nvm yarn mysql python dbeaver
-    ```
+# development
+scoop install neovim php php-xdebug composer nvm yarn mysql python dbeaver
+```
 
