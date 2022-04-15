@@ -84,4 +84,3 @@ scoop install git gh github
 # development
 scoop install neovim php php-xdebug composer nvm yarn mysql python dbeaver
 ```
-
